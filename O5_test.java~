@@ -1,0 +1,10 @@
+import javax.swing. *;
+
+public class O5_test{
+
+    public static void main(String[] args){
+        new MyJFrame();
+    }
+
+
+}
